@@ -1,4 +1,4 @@
-BOT_TOKEN = "8956792442:AAEetT1aEyIEH_A1HDTIY2g-Sczetpdb8Vs"
+BOT_TOKEN = ""
 
 WELCOME_TEXT = """
 👋 Привет! Я - твой карьерный советчик!
